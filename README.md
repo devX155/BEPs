@@ -4,6 +4,7 @@ BEP stands for BNB Evolution Proposal. Each BEP will be a proposal document prov
 
 Here is the list of subjects of BEPs:
 
+
 | Number                       | Title                                                     | Type      | Status    |
 |------------------------------| --------------------------------------------------------- | --------- |-----------|
 | [BEP-1](./BEPs/BEP1.md)      | Purpose and Guidelines of BEP                             | Process   | Living    |
@@ -59,23 +60,25 @@ Here is the list of subjects of BEPs:
 | [BEP-311](./BEPs/BEP-311.md) | Implement EIP-3651 Warm COINBASE                          | Standards | Enabled |
 | [BEP-312](./BEPs/BEP-312.md) | Announce EIP-6049 Deprecate SELFDESTRUCT                  | Standards | Review    |
 | [BEP-319](./BEPs/BEP-319.md) | Optimize the incentive mechanism of the Fast Finality feature | Standards | Enabled |
-| [BEP-322](./BEPs/BEP322.md)  | Builder API Specification for BNB Smart Chain              | Standards | Candidate  |
+| [BEP-322](./BEPs/BEP322.md)  | Builder API Specification for BNB Smart Chain              | Standards | Enabled  |
 | [BEP-323](./BEPs/BEP323.md)  | Bundle Format for Greenfield                              | Standards | Enabled   |
-| [BEP-333](./BEPs/BEP333.md)  | BNB Chain Fusion                                          | Standards | Candidate |
-| [BEP-334](./BEPs/BEP-334.md) | Greenfield CrossChain Permission Module                   | Standards | Draft     |
+| [BEP-333](./BEPs/BEP333.md)  | BNB Chain Fusion                                          | Standards | Enabled |
+| [BEP-334](./BEPs/BEP-334.md) | Greenfield CrossChain Permission Module                   | Standards | Enabled     |
 | [BEP-335](./BEPs/BEP-335.md) | Greenfield Simplify Storage Provider Exit                   | Standards | Enabled   |
-| [BEP-336](./BEPs/BEP-336.md) | Implement EIP-4844: Shard Blob Transactions               | Standards | Candidate     |
-| [BEP-342](./BEPs/BEP-342.md) | Implement EIP-5656: MCOPY                                 | Standards | Candidate |
-| [BEP-343](./BEPs/BEP-343.md) | Implement EIP-1153: Transient storage opcodes             | Standards | Candidate |
-| [BEP-344](./BEPs/BEP-344.md) | Implement EIP-6780: SELFDESTRUCT only in same transaction | Standards | Candidate |
-| [BEP-345](./BEPs/BEP-345.md) | Implement EIP-7516: BLOBBASEFEE opcode                    | Standards | Candidate |
-| [BEP-346](./BEPs/BEP-346.md) | Streamline off-chain authentication on Greenfield         | Standards | Candidate     |
-| [BEP-362](./BEPs/BEP-362.md) | Greenfield Storage Fee Paymaster                          | Standards | Candidate |
-| [BEP-364](./BEPs/BEP-364.md) | Primary Storage Provider acts as the upload agent for object creation and update on Greenfield | Standards | Candidate |
+| [BEP-336](./BEPs/BEP-336.md) | Implement EIP-4844: Shard Blob Transactions               | Standards | Enabled     |
+| [BEP-341](./BEPs/BEP-341.md) | Validators can produce consecutive blocks                  | Standards | Candidate  |
+| [BEP-342](./BEPs/BEP-342.md) | Implement EIP-5656: MCOPY                                 | Standards | Enabled |
+| [BEP-343](./BEPs/BEP-343.md) | Implement EIP-1153: Transient storage opcodes             | Standards | Enabled |
+| [BEP-344](./BEPs/BEP-344.md) | Implement EIP-6780: SELFDESTRUCT only in same transaction | Standards | Enabled |
+| [BEP-345](./BEPs/BEP-345.md) | Implement EIP-7516: BLOBBASEFEE opcode                    | Standards | Enabled |
+| [BEP-346](./BEPs/BEP-346.md) | Streamline off-chain authentication on Greenfield         | Standards | Enabled     |
+| [BEP-362](./BEPs/BEP-362.md) | Greenfield Storage Fee Paymaster                          | Standards | Enabled |
+| [BEP-364](./BEPs/BEP-364.md) | Primary Storage Provider acts as the upload agent for object creation and update on Greenfield | Standards | Enabled |
 | [BEP-366](./BEPs/BEP-366.md) | PGreenfield Atomic Object Update                           | Standards | Candidate |
 | [BEP-402](./BEPs/BEP-402.md) | Complete Missing Fields in Block Header to Generate Signature          | Standards | Candidate |
 | [BEP-404](./BEPs/BEP-404.md) | Clear Miner History when Switching Validator Set          | Standards | Candidate |
 | [BEP-410](./BEPs/BEP-410.md) | Add Agent for Validators          | Standards | Draft     |
+| [BEP-414](./BEPs/BEP-414.md) | EOA based Paymaster API Spec       | Standards | Draft     |
 
 
 
